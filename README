@@ -1,0 +1,6 @@
+Template for C projects
+
+To build and test:
+$ cmake .
+$ make
+$ make test
